@@ -1,0 +1,131 @@
+body{
+    margin: 0% auto;
+    background: rgb(243, 240, 240);
+    width: 700px;
+    
+  }
+  .container{
+    
+    display: flex;
+    background: black;
+    font-size: 18px;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: none;
+    text-decoration: none;
+
+  }
+
+.convert{
+list-style: none;
+
+}
+
+  #len-btn{
+    background: gray;
+    padding: 15px;
+    margin-top: 5px;
+    
+  }
+
+  #vol-btn{
+    background: lightcoral;
+    padding: 15px;
+    order: 1;
+    margin-top: 5px;
+    
+  }
+  #mass-btn{
+background: forestgreen;
+padding: 15px;
+margin-top: 5px;
+ 
+  }
+  #area-btn{
+background: hotpink;
+padding: 15px;
+margin-top: 5px;
+  }
+  #temp-btn{
+background: gold;
+padding: 15px;
+margin-top: 5px;
+
+
+  }
+  #distance-btn{
+    background: lightblue;
+    padding: 15px;
+    margin-top: 5px;
+    
+  }
+
+  .container > ul {
+    padding: 10px;
+    list-style: none;
+  }
+  header{
+    justify-content:center;
+    background-color: maroon;
+    width: 100%;
+    height: auto;
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+
+  }
+  
+  h1{
+    text-align: center;
+    color: rgb(243, 240, 240);
+
+  }
+ 
+   #convert-el {
+    width: 100px;
+    font-size: 20px;
+    background-color:maroon ;
+    color: white;
+    border: 1px solid white;
+    padding: 4px;
+    margin-right: 25px;
+   
+    
+  }
+  #con{
+    background-color: white;
+    color: maroon;
+    padding: 5px ;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    font-size: 15px;
+    cursor: pointer;
+    width: 100px;
+  
+    text-align: center;
+    
+  }
+    #heed{
+      align-self: left;
+  }
+  /* button{
+    /* background: rgb(145, 150, 151); */
+    /* background: gray; */
+    /* padding: 20px 100px; */
+    /* width: 100%; */
+    /* font-size: 16px; */
+    /* border-radius: 10px; */
+    /* margin: 3px; */
+    /* text-shadow: 10px; */
+    /* color: black; */
+    /* font-fa/mily:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  */ 
+  p{
+    margin:5px;
+  }
+  #buton{
+    margin-left: 3px
+  }
+  
+  
+  
