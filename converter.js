@@ -51,9 +51,7 @@ function convertMetrics(){
        masBtn.textContent = inputEl.value + " kilograms = " + inPounds + inputEl.value + " pounds = " + inKilos
        areaBtn.textContent = inputEl.value + " hectares = " + inAcres + inputEl.value + " acres = " + inHectares 
        tempBtn.textContent = inputEl.value + " fahrenheight = " + inCelcius + inputEl.value + " celcius = " + inFahrenheight
-       distBtn.textContent = inputEl.value + " miles = " + inKilometers + inputEl.value + " kilometers = " + inMiles 
-
-        
+       distBtn.textContent = inputEl.value + " miles = " + inKilometers + inputEl.value + " kilometers = " + inMiles     
     }
   
 }
