@@ -24,7 +24,7 @@ function convertMetrics(){
     let length = 0;
     let feet = 0;
     let volume = 0;
-    let mass = 0;
+    let mass = 0
 
     if (inputEl.value > 0){
        length = inputEl.value * 3.281 
