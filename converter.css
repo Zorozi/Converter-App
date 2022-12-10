@@ -8,7 +8,7 @@ body{
     
     display: flex;
     background: black;
-    font-size: 18px;
+    font-size: 17px;
     justify-content: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     list-style: none;
@@ -85,7 +85,7 @@ margin-top: 5px;
    #convert-el {
     width: 100px;
     font-size: 20px;
-    background-color:maroon ;
+    background-color: maroon ;
     color: white;
     border: 1px solid white;
     padding: 4px;
