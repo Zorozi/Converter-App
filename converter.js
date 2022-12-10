@@ -6,15 +6,6 @@ const inputEl = document.getElementById("convert-el")
 const areaBtn = document.getElementById("area-btn")
 const tempBtn = document.getElementById("temp-btn")
 const distBtn = document.getElementById("distance-btn")
-//console.log(distBtn)
-
-//let 1 meter = 3.281 feet
-//let 1 liter = 0.264 gallon
-//let 1 kilogram = 2.204 pound
-//let 1 acre = 0.405 heactares
-//let 1 celcius = (1c * 9/5) + 32
-//let 1 mile = 1.609 kms
-//
 
 
 convertBtn.addEventListener("click", convertMetrics)
